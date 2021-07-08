@@ -1,0 +1,122 @@
+File: stockdata.csv
+      Contains open, high, low, close, volume for 100 stocks on each day.
+      All values are in one list with list index representing 
+       [open, high, low, close, volume]
+
+File: company_info.json
+      Contains basic information of companies in json format
+
+File: dividends.csv
+      Track of dividends given out by companies and the date
+
+The entire data is historical, primarily for exploratory data analysis.
+We would be fetching real time data, for both stocks and news
+ and streaming it directly on the web-app
+
+
+
+
+Symbols: Names in NewsAPI.txt file and the symbols below are in the same order
+
+AAL
+AAPL
+ACST
+ADXS
+AESE
+AGNC
+AIKI
+AMD
+APA
+APHA
+ASRT
+ATOS
+AZN
+BIDU
+BILI
+BIOL
+BLDP
+BNGO
+CAN
+CDEV
+CIDM
+CLOV
+CLPS
+CMCSA
+CSCO
+CTRM
+CTXR
+DKNG
+EARS
+EBON
+EVFM
+EYES
+FB
+FCEL
+FPRX
+FUTU
+GEVO
+GNUS
+IDEX
+INO
+INTC
+IQ
+ITRM
+JAGX
+JBLU
+JD
+KOPN
+LI
+LKCO
+LYFT
+MARA
+MDLZ
+METX
+MICT
+MIK
+MRNA
+MRVL
+MSFT
+MU
+MVIS
+NAKD
+NKLA
+NNDM
+NVDA
+OCGN
+OGI
+ONTX
+OPEN
+PACB
+PLUG
+PTON
+PYPL
+QCOM
+QTT
+RIOT
+SABR
+SDC
+SHIP
+SIFY
+SIRI
+SLGG
+SNDL
+SOLO
+SRNE
+TELL
+TIGR
+TLRY
+TNXP
+TRCH
+TSLA
+TTOO
+TXMD
+UAL
+VIAC
+VISL
+VTRS
+VUZI
+WKHS
+XTLB
+ZNGA
+
+

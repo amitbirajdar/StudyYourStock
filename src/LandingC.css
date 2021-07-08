@@ -1,0 +1,140 @@
+.root {
+    background-color: rgb(32, 31, 31);
+}
+ 
+.header {
+    color: azure;
+    font-size: 70px;
+    margin-left: -400px;
+}
+
+.Date {
+    height: 1500px;
+    margin-left: 0px;
+    margin-top: 10px;
+    background-color:rgb(0, 0, 0);
+    padding-top: 40px;
+    
+}
+
+.startDiv{
+    margin-left: 1100px;
+}
+.startDP{
+    height: 60px;
+    width: 300px;
+}
+
+.startDP::placeholder{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.endDiv {
+    margin-left: 1900px;
+    margin-top: -50px;
+}
+
+.endDP{
+    height: 60px;
+    margin-left: -80px;
+    width: 300px;
+}
+
+.endDP::placeholder{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.returns {
+    margin-left: 1450px;
+    color: blanchedalmond;
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+
+.calculate_button{
+    width: 250px;
+    height: 50px;
+    margin-left: 1450px;
+    margin-top: -10px;
+    font-weight:800;
+    font-size: 24px;
+}
+
+.react-datepicker__input-container input {
+    background-color: rgb(194, 194, 223);
+    margin-top: -10px;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.results{
+    color: white
+}
+
+.message {
+    background-color:slategray;
+    margin-top: 30px;    
+    height: 90px;
+    width: 605px;
+    margin-left: 1850px;
+    font-size: 30px;
+    
+}
+
+.investment {
+    background-color:slategray;
+    margin-top: 30px;    
+    height: 100px;
+    width: 100%;
+    padding-top: 10px;
+    font-weight: bold;
+    margin-left: 00px;
+    font-size: 28px;
+    padding-left: 00px;
+}
+.green {
+    color: rgb(13, 255, 0);
+    padding-top: 10px;
+}
+
+.red {
+    color: rgb(177, 12, 12);
+    padding-top: 10px;
+}
+
+.nodata{
+    color: rgb(243, 242, 239);
+}
+.company_news{
+color:cornsilk;
+background-color: crimson;
+}
+
+.live{
+    width: 180px;
+    height: 100px;
+    margin-left: 1200px;
+    margin-top: -100px;
+    font-size: 100px;
+}
+
+.summary{
+    background-color: white;
+    width: 350px;
+    font-size: 30px;
+    margin-left: 215px;
+    margin-top: 10px;
+    color: red;
+}
+
+.StockSumm{
+
+    color: blanchedalmond;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: -2100px;
+    margin-top: -100px;
+
+}

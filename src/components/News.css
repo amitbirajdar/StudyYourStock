@@ -1,0 +1,51 @@
+.company_news {
+    background-color: black;
+    padding-top: 50px;
+}
+.nonews{
+    background-color: black;
+    height: 200px;
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: -300px;
+}
+.RecentNews{
+    margin-left:-300px;
+    padding-top: 120px;
+    color: beige;
+    font-size: 70px;
+    padding-bottom: 50px ;
+}
+.Newstitle{
+    font-size: 50px;
+    margin-left:-700px;
+}
+
+img{
+    height: 500px;
+    width:900px;
+    margin-top: 30px;
+    margin-left: -1140px;
+}
+
+.newsdiv{
+    align-content: left;
+}
+
+.author{
+    margin-left: -800px;
+    font-size: 40px;
+}
+.newsdata{
+    background-color: white;
+}
+
+.urlnews{
+    font-size: 28px;
+    margin-left:-1000px;
+}
+
+.NewsDiv{
+    border-bottom-color: white;
+}

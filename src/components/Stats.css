@@ -1,0 +1,49 @@
+.stats{
+    background-color: black;
+    margin-top: 200px;
+    width: 2000px;
+    height: 400px;
+    margin-left: 50px;
+
+}
+.best{
+    margin-left: -00px;
+    color: ivory;
+}
+
+.worst{
+    color: ivory;
+    margin-left: 0px;
+}
+.table1{
+    font-size: 40px;
+    margin-left: -450px;
+    width: 380px;
+    margin-top: 0px;
+    background-color: rgb(42, 220, 42);
+}
+.table2{
+    font-size: 40px;
+    margin-left: 1400px;
+    width: 380px;
+    margin-top: -370px;
+    background-color: rgb(240, 45, 45);
+    
+
+}
+.stockh{
+    padding-right: 40px;
+    padding-left: 30px;
+}
+.returnh{
+    padding-left: 00px;
+}
+
+tr{
+    font-size: 25px; 
+}
+
+/* tr{
+   font-size: 20px; 
+   margin-left: 100px;
+} */

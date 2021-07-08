@@ -1,0 +1,21 @@
+.ticker{
+    color: yellow;
+    font-size: 100px;
+    font-weight: bolder;
+    height:80px;
+    width: 150px;
+    margin-top:-50px;
+    margin-left:180px;
+    padding-top: 30px;
+    
+}
+
+.bt1{
+    font-size: 60px;
+    color: "red";
+}
+
+.bt2{
+    font-size: 60px;
+    color: "green";
+}

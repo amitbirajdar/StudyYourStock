@@ -1,0 +1,80 @@
+.company_container {
+    display: flex;
+    justify-content: center;
+    margin-left: 40px;
+
+}
+
+.company_row {
+    display: flex;
+    flex-direction: row;
+    justify-items: start;
+    align-items: center;
+    height: 100px;
+    border-bottom: 1px solid #6d6c6c;
+    width: 1300px;
+    margin-left: 40px;
+
+}
+
+.company{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    margin-right: 50px;
+    min-width: 00px;
+}
+
+.company img {
+    height: 80px;
+    width: 80px;
+    margin-left: 0px;
+    background-color: azure;
+    margin-bottom:10px;
+}
+
+.company h1 {
+    font-size: 22px;
+    width: 2000px;
+    margin-right: 100px;
+    color: azure;
+}
+
+.symbol {
+    font-weight: 1000;
+    font-size: 22px;
+    margin-left: 30px;
+    text-align: center;
+    color: azure;
+}
+
+.company_data {
+    display: flex;
+    text-align: right;
+    justify-content: left;
+    width: 1000px;
+}
+
+.last_price {
+    width: 100px;
+    font-size: 22px;
+    margin-left: -200px;
+    color: azure;
+}
+
+.marketcap {
+    width: 400px;
+    font-size: 22px;
+    margin-left: 10px;
+    text-align: right;
+    color: azure;
+}
+
+.website {
+    width: 100px;
+    
+}
+
+.company-percent {
+    width: 100%;
+}
